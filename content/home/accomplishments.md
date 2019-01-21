@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "SQL"
-  organization = "edX"
+  organization = "Stanford University"
   certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
