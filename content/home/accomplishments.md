@@ -7,7 +7,7 @@ title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 15
+weight = 25
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,27 +20,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Optimization in Business Analytics"
+  organization = "MITx"
+  certificate_url = ""
+  date_start = "2017-10-01"
   date_end = ""
-  description = ""
+  description = "A course in linear and integer optimization modelling" 
 
 [[item]]
-  title = "Blockchain Fundamentals"
+  title = "SQL"
   organization = "edX"
-  certificate_url = "https://www.edx.org"
+  certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = ""
+  description = "A course in SQL queries and programming"
   
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Statistical Learning"
+  organization = "Stanford University"
+  certificate_url = ""
+  date_start = "2018-03-01"
+  date_end = ""
+  description = "A machine learning course from a statistical perspective"
 
 +++

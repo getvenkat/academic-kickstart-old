@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Venkat Swaminathan"
+title = "Venkat R Swaminathan"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -299,6 +299,11 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 2
+
+[[menu.main]]
   name = "Publications"
   url = "#publications_selected"
   weight = 2
@@ -308,10 +313,10 @@ enableGitInfo = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
   name = "Tutorials"
