@@ -20,23 +20,50 @@ weight = 64
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  #description = "100%"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Statistics and Data Science"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Machine Learning"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+
+[[feature]]
+  icon = "x-ray"
+  icon_pack = "fas"
+  name = "Medical Imaging"
+
+[[feature]]
+  icon = "zotero"
+  icon_pack = "ai"
+  name = "Zotero"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
 
 +++
